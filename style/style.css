@@ -93,6 +93,10 @@ p {
   padding-right: 25px;
 }
 
+.paragrafo {
+  margin-bottom: 50px;
+}
+
 .link {
   text-decoration: none;
   color:blue;
