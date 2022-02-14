@@ -9,4 +9,4 @@ function validaFormulario(){
   }else{
     alert("Por favor, preencha os campos nome e email.")
   }
-}
+} 
