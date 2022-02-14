@@ -1,0 +1,130 @@
+body {
+  background: url="img/pintura-van-gogh.jfif" no-repeat center center fixed;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Times New Roman', Verdana;
+  margin: 0;
+}
+
+.titulo-principal {
+  font-size: 28px;
+  opacity: 1;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.principal {
+  background-color: rgb(0, 0, 255);
+  height: 15%;
+  max-width: 70%;
+  margin: 50px auto;
+  opacity: 0.8;
+  border-radius: 7px;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2;
+  margin: 0 45px;
+  font-size: 30px;
+}
+
+.principal a {
+  color: rgb(229, 255, 0);
+  text-decoration: none;  
+  font-weight: normal;
+}
+
+.titulos {
+  font-size: 22px;
+  opacity: 1;
+}
+
+h2 {
+  margin: 60px 0 20px;
+}
+
+section, div {
+  background-color: #ffffff;
+  max-width: 70%;
+  margin: 0 auto;
+  border-radius: 7px;
+  opacity: 0.8;
+}
+
+section section {
+  max-width: 100%;
+}
+
+p {
+  padding: 10px 20px;
+  font-size: 1.3em;
+}
+
+.imagens {
+  width: 55%;
+}
+
+.imagem {
+  height: 350px;
+  width: 220px;
+}
+
+.imagem2 {
+  height: 350px;
+  width: 250px;
+  margin-right: 40px;
+  margin-left: 40px; 
+}
+
+.imagem3 {
+  height: 350px;
+  width: 250px;
+}
+
+.foto {
+  padding-right: 25px;
+}
+
+.link {
+  text-decoration: none;
+  color:blue;
+  font-size: 30px;
+  margin-top: 50px; 
+  line-height: 2;
+}
+
+.topicos {
+  font-size: 25px;
+}
+
+button {
+  background-color: rgb(0, 0, 255);
+  color: rgb(229, 255, 0);
+  border: 1px solid transparent;
+  padding: px 20px;
+  border-radius: 3px;
+  font-size: 15px;
+}
+
+form {
+  margin: 30px 30px;
+}
+
+.caixa-form {
+  font-size: 25px 100px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+}
+
+.rodape {
+  background-color: #ffffff;
+  margin: 20px auto;
+}
